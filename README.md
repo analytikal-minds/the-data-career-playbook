@@ -1,12 +1,8 @@
-# the-data-career-playbook
-
-# Awesome Data Analytics
+# The Data Career Playbook
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A curated list of awesome data analytics resources, tools, libraries, and frameworks.
-
-**Data Analytics** is the process of examining data sets in order to find trends and draw conclusions about the information they contain. This list covers the ecosystem of tools for data ingestion, processing, visualization, and reporting.
+> A curated list of awesome data analytics resources, tools, libraries and frameworks.
 
 ## Contents
 
