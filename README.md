@@ -1,6 +1,6 @@
 # The Data Career Playbook
 
-> A curated list of awesome data analytics resources, tools, libraries and frameworks.
+> A curated list with links to everything you'd ever want to learn about a Career in Data.
 
 ## Contents
 
