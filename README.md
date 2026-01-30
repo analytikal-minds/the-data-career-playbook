@@ -1,7 +1,5 @@
 # The Data Career Playbook
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-
 > A curated list of awesome data analytics resources, tools, libraries and frameworks.
 
 ## Contents
@@ -29,13 +27,6 @@
 - [NumPy](https://numpy.org/) - The fundamental package for scientific computing with Python.
 - [Matplotlib](https://matplotlib.org/) - Comprehensive library for creating static, animated, and interactive visualizations.
 - [Seaborn](https://seaborn.pydata.org/) - Statistical data visualization based on matplotlib.
-
-## R Packages
-*Essential packages for analytics in R.*
-
-- [dplyr](https://dplyr.tidyverse.org/) - A grammar of data manipulation.
-- [ggplot2](https://ggplot2.tidyverse.org/) - A system for declaratively creating graphics.
-- [shiny](https://shiny.rstudio.com/) - Easy web apps for data science.
 
 ## SQL Tools
 *Tools for querying and managing databases.*
