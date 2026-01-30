@@ -1,6 +1,6 @@
 # Contribution Guidelines
 
-Thank you for considering contributing to Awesome Data Analytics!
+Thank you for considering contributing to The Data Career Playbook!
 
 To ensure this list remains high-quality, please adhere to the following guidelines.
 
